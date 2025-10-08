@@ -29,6 +29,7 @@ body {
   display: flex;
   flex-direction: row;
   column-gap: 20px;
+  padding: 20px 10px;
 }
 
 .submenu {
