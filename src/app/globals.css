@@ -24,3 +24,15 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+}
+
+.submenu {
+  display: flex inline;
+  flex-direction: column;
+  padding: 20px;
+}
